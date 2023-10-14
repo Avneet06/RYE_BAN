@@ -2,7 +2,7 @@
 
 # Ray-Ban Spectacles Landing Page
 
-![Ray-Ban Spectacles](link-to-a-screenshot-or-demo.gif)
+![image](https://github.com/HimAgain12/RYE_BAN/assets/120190522/81ee11db-65de-4c1f-b1fc-feb1b7b6d063)
 
 ## About
 
